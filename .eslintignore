@@ -1,0 +1,6 @@
+# Directories to ignore 
+public/*
+
+# Files to ignore 
+**/*.csv
+**/*.css
